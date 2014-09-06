@@ -24,10 +24,10 @@
     <ClInclude Include="Connection.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Encode.h">
+    <ClInclude Include="Transmission.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Transmission.h">
+    <ClInclude Include="Encoder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
