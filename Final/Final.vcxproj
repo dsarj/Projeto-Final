@@ -64,6 +64,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Connection.h" />
+    <ClInclude Include="Cripto.h" />
+    <ClInclude Include="Encode.h" />
+    <ClInclude Include="Transmission.h" />
+    <ClInclude Include="Voice.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
